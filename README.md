@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ShareGPT4V-colab/blob/main/ShareGPT4V_colab.ipynb) | ShareGPT4V_colab (16bit Pro Colab 😐)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ShareGPT4V-colab/blob/main/ShareGPT4V_colab.ipynb) | ShareGPT4V_8bit_colab (8bit Free Colab T4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ShareGPT4V-colab/blob/main/ShareGPT4V_8bit_colab.ipynb) | ShareGPT4V_8bit_colab (8bit Free Colab T4)
 
 ## 🦆 Kaggle
 
