@@ -18,7 +18,8 @@
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/sharegpt4v) | sharegpt4v_kaggle (16bit Free T4)
 
 ## Main Repo
-https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V
+https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V <br />
+https://github.com/haotian-liu/LLaVA <br />
 
 ## Paper
 https://arxiv.org/abs/2311.12793
