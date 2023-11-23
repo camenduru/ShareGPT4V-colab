@@ -26,4 +26,5 @@ https://arxiv.org/abs/2311.12793
 https://sharegpt4v.github.io/
 
 ## Output
+![Screenshot 2023-11-23 114102](https://github.com/camenduru/ShareGPT4V-colab/assets/54370274/3acfa3c6-19c2-40dd-9252-f807c0a08a16)
 
